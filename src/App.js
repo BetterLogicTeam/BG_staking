@@ -66,7 +66,7 @@ function App() {
               value: "#ffffff",
             },
             links: {
-              color: "rgb(154, 74, 211)",
+              color: "#88301e",
               distance: 120,
               enable: true,
               opacity: 0.5,
@@ -104,7 +104,7 @@ function App() {
           },
           detectRetina: true,
         }}
-      />
+      /> 
        <Toaster />
           <Header />
           <Landing_Page />

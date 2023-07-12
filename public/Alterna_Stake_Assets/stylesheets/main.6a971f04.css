@@ -789,11 +789,11 @@ video {
 .bg-btn-1,
 .bg-btn-2 {
     border-radius: 5px;
-    box-shadow: 0 3px 8px #7937B2
+    box-shadow: 0 3px 8px #88301e
 }
 
 .bg-btn-2 {
-    background: linear-gradient(0deg, #7937B2  .59%, rgba(0, 173, 255, .059))
+    background: linear-gradient(0deg, #88301e  .59%, rgba(0, 173, 255, .059))
 }
 
 .bg-transparent {
@@ -807,8 +807,8 @@ video {
 }
 
 .line {
-    background: #7937B2;
-    box-shadow: 0 12px 30px #7937B2, 0 -12px 30px #7937B2, 0 4px 6px #7937B2, 0 12px 13px #7937B2, 0 -3px 5px #7937B2;
+    background: #88301e;
+    box-shadow: 0 12px 30px #88301e, 0 -12px 30px #88301e, 0 4px 6px #88301e, 0 12px 13px #88301e, 0 -3px 5px #88301e;
     height: 2px;
     width: 180px
 }

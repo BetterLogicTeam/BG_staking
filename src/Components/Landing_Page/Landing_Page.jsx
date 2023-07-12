@@ -265,7 +265,7 @@ if(Number(getInput)>=Number(10)){
                   <input
                     aria-invalid="false"
                     id=":r0:"
-                    placeholder="Enter OBAMA INU"
+                    placeholder="Enter BG Token"
                     type="text"
                     className="MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputSizeSmall MuiInputBase-inputAdornedEnd css-b52kj1"
                     value={plan == 0 ? getInput : ""}
@@ -333,7 +333,7 @@ if(Number(getInput)>=Number(10)){
                   <input
                     aria-invalid="false"
                     id=":r1:"
-                    placeholder="Enter OBAMA INU"
+                    placeholder="Enter BG Token"
                     type="text"
                     className="MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputSizeSmall MuiInputBase-inputAdornedEnd css-b52kj1"
                     onChange={(e) => (setgetInput(e.target.value), setplan(1))}
@@ -401,7 +401,7 @@ if(Number(getInput)>=Number(10)){
                   <input
                     aria-invalid="false"
                     id=":r2:"
-                    placeholder="Enter OBAMA INU"
+                    placeholder="Enter BG Token"
                     type="text"
                     className="MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputSizeSmall MuiInputBase-inputAdornedEnd css-b52kj1"
                     onChange={(e) => (setgetInput(e.target.value), setplan(2))}
@@ -465,7 +465,7 @@ if(Number(getInput)>=Number(10)){
                   <input
                     aria-invalid="false"
                     id=":r2:"
-                    placeholder="Enter OBAMA INU"
+                    placeholder="Enter BG Token"
                     type="text"
                     className="MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputSizeSmall MuiInputBase-inputAdornedEnd css-b52kj1"
                     onChange={(e) => (setgetInput(e.target.value), setplan(3))}

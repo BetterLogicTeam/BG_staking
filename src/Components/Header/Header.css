@@ -18,7 +18,7 @@
 
 .css-11az635 {
     background: rgba(44, 43, 43, 0.3);
-    box-shadow: rgb(154, 74, 211) 0px 3px 8px;
+    box-shadow: #88301e 0px 3px 8px;
     border-radius: 5px;
     height: 100%;
     padding: 16px 24px;
@@ -104,9 +104,9 @@
     vertical-align: top;
     width: 100%;
     border: none;
-    background: linear-gradient(0deg, rgb(154, 74, 211) 0.59%, rgba(136, 111, 134, 0.06) 100%);
+    background: linear-gradient(0deg, #88301e 0.59%, rgba(136, 111, 134, 0.06) 100%);
     border-radius: 5px;
-    box-shadow: rgb(154, 74, 211) 0px 3px 8px;
+    box-shadow: #88301e 0px 3px 8px;
 }
 
 .css-m5h15k .MuiOutlinedInput-root {
@@ -206,7 +206,7 @@
     width: 100%;
     font-size: 17px;
     color: rgb(255, 255, 255);
-    background: rgb(154, 74, 211);
+    background: #88301e;
     border-radius: 5px;
     cursor: pointer;
     text-transform: capitalize;
@@ -234,7 +234,7 @@
     overflow-x: auto;
     background: rgba(44, 43, 43, 0.3);
     border-radius: 5px;
-    box-shadow: rgb(154, 74, 211) 0px 3px 8px;
+    box-shadow: #88301e 0px 3px 8px;
 }
 
 .css-1owb465 {
@@ -326,7 +326,7 @@ table {
 
 
     background: transparent;
-    border: 1px solid rgb(154, 74, 211);
+    border: 1px solid #88301e;
 
 }
 
@@ -347,7 +347,7 @@ table {
 .cFkEdE {
     position: relative;
     width: 100%;
-    background-color: rgb(154, 74, 211);
+    background-color: #88301e;
     border-radius: 12px;
     margin: 10px;
     padding: 0px;
@@ -384,7 +384,7 @@ table {
     justify-content: center;
     -webkit-box-align: center;
     align-items: center;
-    background-color: rgb(154, 74, 211);
+    background-color: #88301e;
     border-radius: 12px;
     padding: 24px 16px;
 }
@@ -453,7 +453,7 @@ table {
 
 .ant-modal .ant-modal-content {
     position: relative;
-    background-color: rgb(154, 74, 211) !important;
+    background-color: #88301e !important;
 
     background-clip: padding-box;
     border: 0;
